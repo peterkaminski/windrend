@@ -1,0 +1,17 @@
+# auth
+env.sh
+
+# output
+*.txt
+*.json
+
+# macOS
+.DS_Store
+
+# Emacs
+*~
+\#*\#
+
+# Python
+venv
+__pycache__
